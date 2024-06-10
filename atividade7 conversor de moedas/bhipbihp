@@ -1,0 +1,9 @@
+ <div class="exibirAlert" type="exibirAlert" name="exibirAlert" onclick="exibirAlert()">
+
+
+
+
+
+
+
+    id="exibirAlert" onclick="alert();" value="Clique para exibir o alerta">

@@ -1,0 +1,55 @@
+.colorframe{
+    
+  background: linear-gradient(45deg,#fff,#e9158a,#d453d4,#43b5d8, #16af81,#fff);
+  background-size: 300% 300%;
+  animation: color 12s ease-in-out infinite;
+}
+@keyframes color{
+    0%{
+background-position: 0% 50%;
+    }
+    50%{
+background-position: 100% 50%;
+    }
+    100%{
+background-position: 0% 50%;
+    }
+}
+*{
+    box-sizing: border-box;
+    padding: 0;
+    font-size: 19px;
+    box-sizing: border-box;
+}
+.first{
+    color: aqua;
+}
+.secont{
+    color: blue;
+}
+.third{
+    color: rgb(214, 64, 9);
+}
+
+.Fourth{
+    color: rgb(73, 9, 9);
+}
+.Fifth{
+    color:chartreuse
+    
+}
+.botao{
+    margin: 0;
+    background-color: rgb(32, 54, 54);
+}
+
+ .question {
+    display: block;
+    padding: 0;
+    border-radius: 9px;
+    cursor: pointer;
+    border: 3px dashed #c6fa09;
+    margin-bottom: 9px;
+ }
+  
+  
