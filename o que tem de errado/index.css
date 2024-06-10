@@ -1,0 +1,40 @@
+
+        
+            body {
+                font-family: Arial, sans-serif;
+                background-color: #f9f9f9;
+                margin: 0;
+                padding: 10px;
+            }
+            header {
+                background-color: #ffcc00;
+                text-align: center;
+                padding: 20px;
+            }
+            h1 {
+                color: #333;
+            }
+            .receita {
+                background-color: #fff;
+                border: 1px solid #0e0b0b;
+                padding: 20px;
+                margin: 20px;
+                border-radius: 5px;
+            }
+            footer{
+                background-color: #8f8787;
+            }
+            .d-block {
+                display: block;
+                margin: 1px auto;
+            }
+            .card{
+                display: block;
+                margin: 1px auto;
+            }
+            .rounded{
+               
+                margin:0;
+                width:30%;
+                text-align: center;
+            }
